@@ -2,7 +2,7 @@
 # Analysis of Bikeshare data for Chicago, Washington and New York City, based off 2017 data (Jan-June)
 # This is an interactive python program which runs via a console and asks the user for input to determine filters
 # There are 3 csv files for each city (chicago.csv, new_york_city.csv, washington.csv)
-# The csv files need to be saved to the same location as this Python script
+# Csv files need to be saved to the same location as this Python script
 
 import time
 import pandas as pd
@@ -54,7 +54,7 @@ def get_filters():
             print('Sorry, not one of the cities we have data for.')
             continue
 
-    # Get user input for month (all, january, february, ... , june)
+    # Get user input for month (all, january, february - june)
     print('\nWe have data for the first 6 months of the year - January, February, March, April, May & June')
     while True:
         try:
