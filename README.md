@@ -16,5 +16,6 @@ There are three csv files with raw data for each city (chicago.csv, washington.c
 The csv files need to be saved to the same location as this Python script for it to run.
 
 ### Credits
-Thank you to Udacity.com for providing the git course.
+Thank you to Udacity for running the git course.
+Sorry I had to submit this twice (hopefully this is correct the second time!)
 Stackoverflow has been used to solve numerous programming errors. Thanks to the awesome community there.
