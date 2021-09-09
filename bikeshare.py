@@ -42,7 +42,7 @@ def get_filters():
             city = input('Enter the city name you are interested in: ')
             city = city.lower()
         except ValueError:
-            print('Not a valid choice.')
+            print('This is not a valid choice.')
             # lets try again... Return to the start of the loop
             continue
 
@@ -51,14 +51,14 @@ def get_filters():
             # we have a valid city, exit loop.
             break
         else:
-            print('Sorry, not one of the cities we have data for.')
+            print('Sorry, this is not one of the cities we have data for.')
             continue
 
     # Get user input for month (all, january, february, ... , june)
     print('\nWe have data for the first 6 months of the year - January, February, March, April, May & June')
     while True:
         try:
-            month = input("Specify a month or enter 'All' to see data for January to June: ")
+            month = input("Please specify a month or enter 'All' to see data for January to June: ")
             month = month.lower()
         except ValueError:
             print('Not a valid choice.')
