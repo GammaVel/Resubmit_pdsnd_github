@@ -6,7 +6,7 @@ RESUBMIT - Git assignment  - Exploring Bikeshare data from America for 3 major c
 
 ### Description
 Analysis of Bikeshare data for Chicago, Washington and New York City, based off 2017 data (Jan-June), using Python with Pandas.
-This is an interactive python program which runs via a console and asks the user for input to determine filters.
+This is an interactive python program which running via a console and asks the user for input to determine filters.
 The program will display statistics depending on the filter the user has selected.
 This includes the number of trips, the most popular time for cycling, trip information (duration), popular start and end locations and average and median age.
 Note - there is no Date of Birth information available for Washington.
