@@ -2,7 +2,7 @@
 09/09/2021
 
 ### Project Title
-RESUBMIT - Git assignment  - Exploring Bikeshare data from America for 3 major cities
+RESUBMIT Git assignment  - Exploring Bikeshare data from America for 3 major cities
 
 ### Description
 Analysis of Bikeshare data for Chicago, Washington and New York City, based off 2017 data (Jan-June), using Python with Pandas.
